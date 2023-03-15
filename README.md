@@ -11,4 +11,4 @@ kerocate/kerocate is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kerocate&count_private=true&langs_count=10)](https://github.com/kerocate/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kerocate&langs_count=10)](https://github.com/kerocate/github-readme-stats)
